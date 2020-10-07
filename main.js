@@ -71,7 +71,7 @@ function trunacate(str) { //////////////////////////////////////
       value += str[i];
       return value + '...';
     }
-  }
+  } 
 }
 
 function ciEmailify(str) {
